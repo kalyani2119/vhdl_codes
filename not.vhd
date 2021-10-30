@@ -8,5 +8,5 @@ entity not_gate is
 end not_gate;
  architecture basic_gate of not_gate is
 begin
-    Y <= not(A) ;
+    Z <= not(A) ;
 end basic_gate;
