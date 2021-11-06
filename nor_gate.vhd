@@ -1,4 +1,4 @@
-****NOR_Gate circuit design
+****NOR_Gate circuit design****
 library IEEE;
 use IEEE.std_logic_1164.all;
 entity nor_gate is
